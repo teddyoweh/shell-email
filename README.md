@@ -4,4 +4,5 @@
 ## Dependencies
 - `w3m`
 - `curl`
-- [`jq`](
+- [`jq`]
+`sudo apt install `dependencies``
