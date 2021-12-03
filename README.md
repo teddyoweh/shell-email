@@ -1,5 +1,5 @@
 # shell-email
- `GET EMAILS DIRECTLY FROM TO TERMINAL TO A TEMPORARY EMAIL `
+ `GET EMAILS DIRECTLY TO YOUR TERMINAL TO A TEMPORARY EMAIL `
 
 ## Installing Dependencies
 - `sudo apt install w3m`
@@ -25,6 +25,6 @@ $ shell-mail
 ### Examples
 Create random email
 ```console
-$ tmpmail --generate
+$ shell-mail --generate
 xoithrjagpx@1secmail.net
 ```
